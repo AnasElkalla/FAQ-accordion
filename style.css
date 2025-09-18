@@ -68,7 +68,7 @@ body {
       display: flex;
       justify-content: space-between;
       align-items: start;
-      margin-bottom: 2rem;
+      margin-bottom: 1rem;
       &:hover {
         color: var(--purple-600);
         cursor: pointer;
@@ -124,3 +124,4 @@ body {
     }
   }
 }
+
