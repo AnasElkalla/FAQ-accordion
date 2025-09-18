@@ -67,7 +67,7 @@ body {
       font-size: 14px;
       display: flex;
       justify-content: space-between;
-      align-items: start;
+      align-items: center;
       margin-bottom: 1rem;
       &:hover {
         color: var(--purple-600);
@@ -125,5 +125,6 @@ body {
     }
   }
 }
+
 
 
